@@ -1,1 +1,1 @@
-Try to implement common ML algorithms by myself
+Try to implement common ML algorithms by myself without any frameworks
